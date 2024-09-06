@@ -104,3 +104,4 @@ dkms.conf
 
 Windows-C-App/.vs
 *.tlog
+/Windows-C-App/Windows-C-App/x64/Debug
