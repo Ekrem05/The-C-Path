@@ -1,0 +1,5 @@
+﻿  Demo.c
+C:\Users\Ekrem Beytula\Documents\Github\The-C-Path\Demo\Demo\Demo\Demo.c(9,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ekrem Beytula\Documents\Github\The-C-Path\Demo\Demo\Demo\Demo.c(67,9): warning C4133: 'function': incompatible types - from 'int [9]' to 'const char *const '
+C:\Users\Ekrem Beytula\Documents\Github\The-C-Path\Demo\Demo\Demo\Demo.c(34,1): warning C4716: 'demo': must return a value
+  Demo.vcxproj -> C:\Users\Ekrem Beytula\Documents\Github\The-C-Path\Demo\Demo\x64\Debug\Demo.exe
